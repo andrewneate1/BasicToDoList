@@ -1,0 +1,26 @@
+input {
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+}
+
+.Input-Fields {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Task-Input {
+    max-width: 1000px;
+    max-height: 150px;
+}
+
+.Add-Button {
+    font-size: x-large;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(72, 71, 86);
+    color: white;
+}
